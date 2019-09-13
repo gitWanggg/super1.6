@@ -1,23 +1,5 @@
-.DS_Store
-.vs
-
-.vscode
-
-**/bin/
-**/obj/
-
-**/*.log
-
-
-selenium-debug.log
-
-# Editor directories and files
-.idea
-.vscode
+bin
+obj
+_ReSharper.*
 *.suo
-
-
-*.local
-
-package-lock.json
-yarn.lock
+*.user
